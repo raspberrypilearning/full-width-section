@@ -1,3 +1,6 @@
+
+![](images/full-width-selection.png)
+
 --- code ---
 ---
 language: html
@@ -11,5 +14,3 @@ line_numbers: false
 </section>
 
 --- /code ---
-
-![](images/full-width-selection.png)
