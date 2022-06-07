@@ -1,5 +1,5 @@
 
-![A full width section.](images/full-width-selection.png)
+![A full width section.](images/full-width-section.png)
 
 --- code ---
 ---
