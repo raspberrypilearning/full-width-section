@@ -1,7 +1,5 @@
 
-![](images/full-width-selection.png)
-
-![The published button.](images/published-button.png)
+![A full width section.](images/full-width-selection.png)
 
 --- code ---
 ---
