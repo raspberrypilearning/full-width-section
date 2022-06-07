@@ -1,6 +1,8 @@
 
 ![](images/full-width-selection.png)
 
+![The published button.](images/published-button.png)
+
 --- code ---
 ---
 language: html
