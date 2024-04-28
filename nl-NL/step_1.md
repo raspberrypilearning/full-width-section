@@ -1,4 +1,4 @@
-![A full width section.](images/full-width-section.png)
+![Een sectie over de volledige breedte.](images/full-width-section.png)
 
 ## --- code ---
 
@@ -8,8 +8,8 @@ line_numbers: false
 --------------------------------------------------------
 
 <section>
-    <h2>Section title</h2>
-    <p>Section text.</p>
+    <h2>Sectietitel</h2>
+    <p>Sectietekst.</p>
 </section>
 
 \--- /code ---
