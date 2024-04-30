@@ -7,9 +7,11 @@ filename: index.html
 line_numbers: false
 --------------------------------------------------------
 
-<section>
+<section class="wrap">
     <h2>Sectietitel</h2>
     <p>Sectietekst.</p>
 </section>
 
 \--- /code ---
+
+The section will take up the maximum width allowed, as set by the styling of the `<main></main>` tags.
