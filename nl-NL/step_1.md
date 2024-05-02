@@ -14,4 +14,4 @@ line_numbers: false
 
 \--- /code ---
 
-The section will take up the maximum width allowed, as set by the styling of the `<main></main>` tags.
+De sectie neemt de maximaal toegestane breedte in beslag, zoals ingesteld door de stijl van de `<main></main>`-tags.
