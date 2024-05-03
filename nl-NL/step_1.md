@@ -13,3 +13,5 @@ line_numbers: false
 </section>
 
 --- /code ---
+
+De sectie neemt de maximaal toegestane breedte in beslag, zoals ingesteld door de stijl van de `<main></main>`-tags.
