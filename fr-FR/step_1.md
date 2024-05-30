@@ -1,4 +1,4 @@
-![A full width section.](images/full-width-section.png)
+![Une section pleine largeur.](images/full-width-section.png)
 
 ## --- code ---
 
@@ -8,10 +8,10 @@ line_numbers: false
 --------------------------------------------------------
 
 <section class="wrap">
-    <h2>Section title</h2>
-    <p>Section text.</p>
+    <h2>Titre de la section</h2>
+    <p>Texte de la section.</p>
 </section>
 
 \--- /code ---
 
-The section will take up the maximum width allowed, as set by the styling of the `<main></main>` tags.
+La section occupera la largeur maximale autorisée, telle que définie par le style des balises `<main></main>`.
